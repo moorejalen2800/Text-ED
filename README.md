@@ -3,6 +3,10 @@
 A simple Progressive Web App text-editor for JavaScript, that works offline as well as online.
 
 
+# Deployed Link
+
+https://text-ed.herokuapp.com/
+
 
 # Description
 
@@ -43,6 +47,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Contributing
 
 Laura Cole
+
+Leif Hetland
+
+Maria Verna Aquino
+Tutor
 
 # Questions
 
