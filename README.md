@@ -44,6 +44,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Laura Cole
 
-# Questios
+# Questions
 
 Have additional questions? I can be reached at Github or you can e-mail me at Moorejalen2800@gamil.com
