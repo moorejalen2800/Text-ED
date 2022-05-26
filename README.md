@@ -7,6 +7,7 @@ A simple Progressive Web App text-editor for JavaScript, that works offline as w
 
 https://text-ed.herokuapp.com/
 
+<img width="1440" alt="Screen Shot 2022-05-25 at 10 34 03 PM" src="https://user-images.githubusercontent.com/100977121/170403779-84e9b4cd-9805-4f6a-8388-0e0f60130f64.png">
 
 # Description
 
